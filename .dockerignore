@@ -6,5 +6,4 @@
 .github
 node_modules
 vendor
-public/build
 storage/logs/*
